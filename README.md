@@ -1,6 +1,6 @@
 # IDAL_metaheuristic
 
-### findBigNumber.py;
+### Ega.py;
 -GA를 이용하여 이진수에 최대값을 찾는 알고리즘 구현
 ### pso.py
 -Particlle swam optimaization을 직접 구현해보고자 만듬
